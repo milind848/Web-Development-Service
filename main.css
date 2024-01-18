@@ -1,0 +1,315 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.post_img{
+    background-image: url(back_up.png);
+    min-height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation{
+    width: 90%;
+    height: 60px;
+    margin: auto;
+ 
+   
+    
+}
+.hlink{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 15px;
+    background-color: rgb(24, 23, 23);
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+:hover.hlink{
+    background-color: red;
+    color: whitesmoke;
+}
+
+.head_title{
+    margin-top: 10%;
+    margin-left: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 25px;
+}
+
+.buttons{
+    margin-left: 5%;
+    margin-top: 5%;
+    height: 10%;
+    width: 50%;
+   
+    
+}
+.head_button{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 15px;
+    text-decoration: none;
+    color: greenyellow;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid #459bf0;
+}
+
+:hover.head_button{
+    color: white;
+     background-color: #0A66C2;
+}
+.testimonial{
+    background-color:rgb(25, 25, 25);
+    height: 600px;
+    
+}
+
+.triger{
+    text-transform: uppercase;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    height: 50px;
+    width: 80%;
+    font-size: 25px;
+    border-bottom: 5px solid white;
+}
+.rate_card{
+    margin-top: 5%;
+    margin-left: 4%;
+    background-color: white;
+    width: 20%;
+    height: 170px;
+    padding: 50px;
+    display: inline-grid;
+    align-items: center;
+    border-bottom: 5px solid #2e93f8;
+    border-top-right-radius: 19%;
+
+}
+.name{
+    color: red;
+    font-size: medium;
+}
+
+.tlink{
+    text-transform: uppercase;
+    color: rgb(105, 104, 104);
+    padding: 11px;
+}
+:hover.tlink{
+    color: brown;
+}
+.about_triger{
+    text-transform: uppercase;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    color: Black;
+    height: 50px;
+    width: 80%;
+    font-size: 25px;
+    border-bottom: 5px solid Black;
+}
+
+.about_us{
+    height: 600px;
+    background-color: white;
+    border-bottom-right-radius: 20%;
+
+}
+.division{
+    color: white;
+    margin: auto;
+    width: 95%;
+    margin-top: 5%;
+   background-color: rgb(245, 52, 52);
+    height: 50%;
+    display: flex;
+}
+.div1{
+
+
+    height: 95%;
+    width: 50%;
+    padding: 5px;
+    
+}
+.Alinks{
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 200px;
+    
+   
+}
+
+a.Dlink{
+   display: inline-block;
+    background-color: #0A66C2;
+    padding: 15px;
+    color: white; 
+    text-decoration: none;
+    border-radius: 2px;
+
+}
+a.Dlink:hover {
+    box-shadow: 2px 2px 3px black;
+}
+
+
+.div2{
+    
+    height: 95%;
+    width: 50%;
+    padding: 5px;
+
+}
+.div2 img{
+    
+    width: 100%;
+    height: 100%;
+}
+
+
+.contact_us{
+   background-color: rgb(30, 30, 30);
+    height: 700px;
+
+}
+.contact_triger{
+    text-transform: uppercase;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    height: 50px;
+    width: 80%;
+    font-size: 25px;
+    border-bottom: 5px solid white;
+}
+
+
+.divide_parts{
+   
+    margin: auto;
+    margin-top: 5%;
+    width: 90%;
+    display: flex;
+
+}
+
+
+.div_part1{
+    background-color: skyblue;
+    width: 50%;
+    text-align: center;
+
+}
+.sub_div_day ul{
+    display: flex;
+    margin-left: 20%;
+}   
+
+.time{
+    margin-left: 5%;
+    list-style: none;
+}
+.div_part2{
+    
+    width: 50%;
+
+}
+
+.call_butt{
+    background-color: white;
+}
+
+.cont_info{
+    margin: auto;
+    background-color: white;
+    width: 90%;
+    height: 95%;
+    text-align: center;
+    box-shadow: 0px 1px 3px;
+    border-radius: 10px;
+}
+.call{
+    
+    color: black;
+    text-decoration: none;
+    
+}
+.call button{
+   background-color: transparent;
+   border-radius: 10px;
+    width: 70%;
+    height: 25%;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+:hover.call button{
+    background-color: green;
+    color: white;
+}
+
+.msg{
+    
+    margin: auto;
+    width: 90%;
+    color: white;
+}
+
+.form{
+    text-align: center;
+    background-color: transparent;
+    height: 220px;
+    
+    
+}
+
+.form_input{
+    color: white;
+    margin-top: 1%;
+    width: 40%;
+    height: 35px;
+    border-radius: 5px;
+    border-bottom: 3px solid #2e93f8;
+    background-color: transparent;
+}
+
+:hover.form_input{
+    border: none;
+    border-bottom: 3px solid #2e93f8;
+
+}
+.form_input1{
+    
+    margin-top: 1%;
+    width: 40%;
+    height: 60px;
+    border-bottom: 3px solid #2e93f8;
+    background-color: transparent;
+}
+.submit{
+    margin-top: 1%;
+    width: 40%;
+    height: 35px;
+    font-size: large;
+    background-color: rgb(250, 49, 49);
+    color: white;
+    cursor: pointer;
+    border: 1px solid black
+    ;
+    
+}
+.bottm{
+    text-align: center;
+}
